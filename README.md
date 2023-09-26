@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilyas Dahhou</h1>
 <h3 align="center">A passionate backend developer from morocco</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dahhou-ilyas" alt="dahhou-ilyas" /></a> </p>
-
 - 🌱 I’m currently learning **design patterns**
 
 - 📫 How to reach me **dahhou.ilyas@gmail.com**

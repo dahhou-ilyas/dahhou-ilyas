@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilyas Dahhou</h1>
 <h3 align="center">A passionate backend developer from morocco</h3>
 
-- 🌱 I’m currently learning **design patterns**
 
 - 📫 How to reach me **dahhou.ilyas@gmail.com**
 

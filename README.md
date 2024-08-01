@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ilyas DAHHOU and I'm a software engineer ⌨️</h2>
+<h2 align="left">Hi 👋! My name is Ilyas DAHHOU and I'm a software engineer ⌨️ Student</h2>
 
 ###
 

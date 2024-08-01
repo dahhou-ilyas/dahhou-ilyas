@@ -72,6 +72,7 @@
 ###
 
 ![Un GIF amusant](https://i.gifer.com/C2PH.gif)
+![Description du GIF](https://i.gifer.com/C2PH.gif)
 
 ###
 

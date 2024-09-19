@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ilyas DAHHOU and I'm a software engineer ⌨️ Student</h2>
+<h2 align="left">Hi 👋! My name is Ilyas DAHHOU and I'm a software engineer ⌨️</h2>
 
 ###
 
@@ -12,13 +12,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dahhou-ilyas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  &nbsp;&nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=dahhou-ilyas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dahhou-ilyas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dahhou-ilyas&theme=github-dark-dimmed&area=true&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
-  &nbsp;&nbsp;&nbsp;
   <img src="https://github-profile-trophy.vercel.app?username=dahhou-ilyas&column=5&row=1" height="150" alt="trophy graph"  />
 </div>
 
@@ -62,6 +58,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
 </div>
 
 ###
@@ -82,7 +80,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github.com/dahhou-ilyas/dahhou-ilyas/blob/main/C2PH.gif" style="width: 300px; height: auto;" alt="Animation GIF" />
+  <img height="204" src="https://i.gifer.com/C2PH.gif"  />
 </div>
 
 ###

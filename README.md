@@ -20,6 +20,10 @@ Passionate software engineer with expertise in full-stack development, cloud tec
 - 👯 Open to collaborate on open-source projects and innovative solutions
 - 💬 Ask me about Java, React, Docker, and cloud deployment strategies
 
+<div align="center">
+  <img src="ready player one nerd GIF.gif" alt="Ready Player One Nerd GIF" />
+</div>
+
 ---
 
 ### 🛠️ Technical Stack
@@ -37,36 +41,6 @@ Passionate software engineer with expertise in full-stack development, cloud tec
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs" title="Node.js" /><br/>Node.js | | | |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="express" title="Express.js" /><br/>Express.js | | | |
 
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dahhou-ilyas&show_icons=true&count_private=true&theme=github_dark&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dahhou-ilyas&theme=github-dark-blue&hide_border=true" height="180" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahhou-ilyas&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dahhou-ilyas&theme=github-compact&hide_border=true&area=true" height="160" alt="Activity Graph" />
-</div>
-
----
-
-### 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dahhou-ilyas&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dahhou-ilyas/dahhou-ilyas/output/snake.svg" alt="Contribution Snake Animation" />
 </div>
 
 ---
